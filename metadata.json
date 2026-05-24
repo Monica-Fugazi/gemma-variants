@@ -1,0 +1,6 @@
+{
+  "name": "Incognito",
+  "description": "An offline-first orchestrator for Gemma 4 Max MoE and Gemini Nano, featuring workflow repositories and MCP skill manifests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
